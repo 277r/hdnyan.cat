@@ -1,0 +1,8 @@
+body {
+	
+	height: 100%;
+	/* no margin = no white line with a few pixels on every side*/
+	margin:0;
+	/* hide the scroll bars*/
+	overflow:hidden;
+}
